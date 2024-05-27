@@ -1,0 +1,378 @@
+<mxfile host="app.diagrams.net" modified="2024-05-27T07:28:40.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="u2DfzFNN6hidUu2xy8vv" version="24.4.8" type="device">
+  <diagram name="Page-1" id="pdoVnyybnCv4D2ovEP3B">
+    <mxGraphModel dx="1828" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-5" value="Dispense cash" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-49" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-8" target="ruIGcKlg1MBZQRnojcQm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-8" value="Bank System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="380" width="53" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-41" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-10" target="ruIGcKlg1MBZQRnojcQm-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-42" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-10" target="ruIGcKlg1MBZQRnojcQm-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-43" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-10" target="ruIGcKlg1MBZQRnojcQm-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-10" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-11" value="Check Balance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-12" value="Check if sufficient Balance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-13" value="Choose amount to withdraw" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-15" value="Read ATM Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-17" value="Read Credit Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-18" value="Authenticate Valid Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-19" value="Determine if card is ATM Card or Credit Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-45" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-33" target="ruIGcKlg1MBZQRnojcQm-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-33" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-36" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-8" target="ruIGcKlg1MBZQRnojcQm-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="500" as="sourcePoint" />
+            <mxPoint x="730" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-60" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="110" as="sourcePoint" />
+            <mxPoint x="1070" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-63" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="30" as="sourcePoint" />
+            <mxPoint x="1070" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-64" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="70" as="sourcePoint" />
+            <mxPoint x="1060" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-67" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="90.5" as="sourcePoint" />
+            <mxPoint x="1070" y="90.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-68" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="50" as="sourcePoint" />
+            <mxPoint x="1070" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-69" value="Update Balance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-76" value="Insert Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-77" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="730" height="700" as="geometry">
+            <mxRectangle x="100" y="230" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-34" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="250" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-38" value="Authenticate Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="460" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-35" value="Perform&lt;div&gt;Maintainence&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="40" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-16" value="Deposit cash" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="20" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-31" value="Withdraw cash with ATM Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="20" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-30" value="Withdraw cash with Credit Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="20" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-7" value="Authenticate Valid Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="280" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-62" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-77" source="ruIGcKlg1MBZQRnojcQm-30" target="ruIGcKlg1MBZQRnojcQm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="100" as="sourcePoint" />
+            <mxPoint x="314" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-73" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-77" source="ruIGcKlg1MBZQRnojcQm-31" target="ruIGcKlg1MBZQRnojcQm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="229.5" as="sourcePoint" />
+            <mxPoint x="320" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-72" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-77" source="ruIGcKlg1MBZQRnojcQm-16" target="ruIGcKlg1MBZQRnojcQm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262" y="289" as="sourcePoint" />
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-78" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-77" source="ruIGcKlg1MBZQRnojcQm-35" target="ruIGcKlg1MBZQRnojcQm-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="179.5" as="sourcePoint" />
+            <mxPoint x="280" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-61" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-77" source="ruIGcKlg1MBZQRnojcQm-34" target="ruIGcKlg1MBZQRnojcQm-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="-160" as="sourcePoint" />
+            <mxPoint x="850" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-9" value="&amp;lt;&amp;lt;ATM System&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-77">
+          <mxGeometry x="20" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-6" value="Insert Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-82" value="ATM Request Pin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-83" value="Check if card is Credit Card or ATM Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-84" value="Withdraw cash with Credit Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-85" value="Insert Credit Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-86" value="Enter Pin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-88" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-84" target="ruIGcKlg1MBZQRnojcQm-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="810" as="sourcePoint" />
+            <mxPoint x="1130" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-89" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-84" target="ruIGcKlg1MBZQRnojcQm-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110.91" y="817.92" as="sourcePoint" />
+            <mxPoint x="1048.91" y="761.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-90" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-96" target="ruIGcKlg1MBZQRnojcQm-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="800" as="sourcePoint" />
+            <mxPoint x="1210" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-91" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-11" target="ruIGcKlg1MBZQRnojcQm-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1202" y="878" as="sourcePoint" />
+            <mxPoint x="1140" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-92" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-84" target="ruIGcKlg1MBZQRnojcQm-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1231" y="956" as="sourcePoint" />
+            <mxPoint x="1169" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-93" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-99" target="ruIGcKlg1MBZQRnojcQm-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1212" y="1006" as="sourcePoint" />
+            <mxPoint x="1150" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-94" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1172" y="1026" as="sourcePoint" />
+            <mxPoint x="1310" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-95" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-85" target="ruIGcKlg1MBZQRnojcQm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1106" y="764" as="sourcePoint" />
+            <mxPoint x="1210" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-96" value="Authenticate Valid Users" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-97" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-17" target="ruIGcKlg1MBZQRnojcQm-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140.06" y="740.0699999999999" as="sourcePoint" />
+            <mxPoint x="1244.06" y="596.0699999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-98" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-86" target="ruIGcKlg1MBZQRnojcQm-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="728.9999999999999" as="sourcePoint" />
+            <mxPoint x="1314" y="584.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-99" value="Enter withdraw amount" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-102" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209.88" y="920.44" as="sourcePoint" />
+            <mxPoint x="1318.88" y="953.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-103" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-5" target="ruIGcKlg1MBZQRnojcQm-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1301" y="903.5" as="sourcePoint" />
+            <mxPoint x="1410" y="936.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-104" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-12" target="ruIGcKlg1MBZQRnojcQm-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1311" y="930" as="sourcePoint" />
+            <mxPoint x="1420" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-106" value="CAAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1010" width="53" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-107" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="ruIGcKlg1MBZQRnojcQm-110" target="ruIGcKlg1MBZQRnojcQm-120" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135.25" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-108" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="ruIGcKlg1MBZQRnojcQm-110" target="ruIGcKlg1MBZQRnojcQm-119" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-110" value="Departing Plane" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="85.25" y="1060" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-113" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=entityRelationEdgeStyle;" edge="1" source="ruIGcKlg1MBZQRnojcQm-106" target="ruIGcKlg1MBZQRnojcQm-121" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735.25" y="1310" as="sourcePoint" />
+            <mxPoint x="785.25" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-114" value="`" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="910" width="590" height="880" as="geometry">
+            <mxRectangle x="100" y="230" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-118" value="Deposit cash" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="340" y="259" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-119" value="Drop takeoff queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="20" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-120" value="Join takeoff queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="20" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-121" value="Validate flight plan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="260" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-122" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" source="ruIGcKlg1MBZQRnojcQm-120" target="ruIGcKlg1MBZQRnojcQm-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="100" as="sourcePoint" />
+            <mxPoint x="314" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-124" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" source="ruIGcKlg1MBZQRnojcQm-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262" y="289" as="sourcePoint" />
+            <mxPoint x="660" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-125" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" target="ruIGcKlg1MBZQRnojcQm-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="599.9999999999995" as="sourcePoint" />
+            <mxPoint x="280" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-126" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" target="ruIGcKlg1MBZQRnojcQm-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="599.9999999999995" as="sourcePoint" />
+            <mxPoint x="850" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-127" value="&amp;lt;&amp;lt;Auto Runway Queue System&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="20" y="10" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-130" value="Join landing queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="50" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-132" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" source="ruIGcKlg1MBZQRnojcQm-130" target="ruIGcKlg1MBZQRnojcQm-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="440" as="sourcePoint" />
+            <mxPoint x="350" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-134" value="Declare emergency landing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="100" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-141" value="Cut landing queue&lt;br&gt;Take priority" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="340" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-143" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" source="ruIGcKlg1MBZQRnojcQm-141" target="ruIGcKlg1MBZQRnojcQm-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="409" as="sourcePoint" />
+            <mxPoint x="630" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-144" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ruIGcKlg1MBZQRnojcQm-143">
+          <mxGeometry x="0.1631" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-137" value="Manual Overide" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="40" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-139" value="ATC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ruIGcKlg1MBZQRnojcQm-114">
+          <mxGeometry x="-84.75" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-140" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ruIGcKlg1MBZQRnojcQm-114" source="ruIGcKlg1MBZQRnojcQm-139" target="ruIGcKlg1MBZQRnojcQm-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="64.75" y="650" as="targetPoint" />
+            <mxPoint x="-30.25" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-129" value="Landing Plane" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruIGcKlg1MBZQRnojcQm-133" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ruIGcKlg1MBZQRnojcQm-129" target="ruIGcKlg1MBZQRnojcQm-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.75" y="1370" as="targetPoint" />
+            <mxPoint x="39.75" y="1220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
