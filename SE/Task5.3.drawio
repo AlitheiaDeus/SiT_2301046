@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:16:39.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="LH7VShuliNvSF9lnfBxs" version="24.4.13" type="device">
+  <diagram name="Page-1" id="CsIHO_Xz1bxgaw1YznOy">
+    <mxGraphModel dx="529" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-1" value="Bank User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="330" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-2" value="- ID&lt;div&gt;- Balance&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xjj9HlfJnk6VL5QMEHu5-1">
+          <mxGeometry x="10" y="41" width="110" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-5" value="+ get_balance()&lt;div&gt;+ set_cardType()&lt;/div&gt;&lt;div&gt;+ set_&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xjj9HlfJnk6VL5QMEHu5-1">
+          <mxGeometry x="10" y="200" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-7" value="Bank User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="330" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-8" value="- ID&lt;div&gt;- Balance&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xjj9HlfJnk6VL5QMEHu5-7">
+          <mxGeometry x="10" y="41" width="110" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="xjj9HlfJnk6VL5QMEHu5-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="230" as="sourcePoint" />
+            <mxPoint x="330" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjj9HlfJnk6VL5QMEHu5-10" value="+ get_balance()&lt;div&gt;+ set_cardType()&lt;/div&gt;&lt;div&gt;+ set_&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xjj9HlfJnk6VL5QMEHu5-7">
+          <mxGeometry x="35" y="250" width="185" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
